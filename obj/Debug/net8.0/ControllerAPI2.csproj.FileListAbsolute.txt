@@ -39,3 +39,4 @@ E:\IT Study\04_Project\ITGenuis\AngularDotnet\ControllerAPI2\bin\Debug\net8.0\Mi
 E:\IT Study\04_Project\ITGenuis\AngularDotnet\ControllerAPI2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 E:\IT Study\04_Project\ITGenuis\AngularDotnet\ControllerAPI2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 E:\IT Study\04_Project\ITGenuis\AngularDotnet\ControllerAPI2\obj\Debug\net8.0\ControllerAPI2.sourcelink.json
+E:\IT Study\04_Project\ITGenuis\AngularDotnet\ControllerAPI2\bin\Debug\net8.0\Npgsql.dll
